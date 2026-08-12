@@ -70,8 +70,9 @@ The notebook uses:
 ```python
 MODEL_NAME = "base"
 ```
-https://youtu.be/PQQEAOUaRd8?si=BIHsI7a1WjLeCfv_
+
 You can change it to `tiny`, `small`, `medium`, or `large`.
+[![Watch the demo video](https://img.youtube.com/vi/PQQEAOUaRd8/hqdefault.jpg)](https://www.youtube.com/watch?v=PQQEAOUaRd8)
 
 
 ## License
