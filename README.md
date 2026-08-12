@@ -1,6 +1,6 @@
 # Whisper Audio Transcriber
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/blob/main/Whisper_Audio_Transcriber.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eli-dev-git/whisper-audio-transcriber/blob/main/Whisper_Audio_Transcriber.ipynb)
 
 A simple open-source audio transcription tool powered by **OpenAI Whisper** and **Google Colab**.
 
@@ -73,16 +73,6 @@ MODEL_NAME = "base"
 
 You can change it to `tiny`, `small`, `medium`, or `large`.
 
-## GitHub setup
-
-Replace these placeholders in the Colab button URL:
-
-```text
-YOUR_GITHUB_USERNAME
-YOUR_REPOSITORY_NAME
-```
-
-with your actual GitHub username and repository name.
 
 ## License
 
