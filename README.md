@@ -1,6 +1,6 @@
 # Whisper Audio Transcriber
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/blob/main/Whisper_Audio_Transcriber.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eli-dev-git/whisper-audio-transcriber/blob/main/Whisper_Audio_Transcriber.ipynb)
 
 A simple open-source audio transcription tool powered by **OpenAI Whisper** and **Google Colab**.
 
@@ -14,7 +14,7 @@ Upload an audio file, let Whisper transcribe it, and automatically download a `.
 
 Click the button below:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY_NAME/blob/main/Whisper_Audio_Transcriber.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/eli-dev-git/whisper-audio-transcriber/blob/main/Whisper_Audio_Transcriber.ipynb)
 
 Then:
 
@@ -62,13 +62,13 @@ VoiceOver School_2_2.txt
 Another example:
 
 ```text
-Middleton Rd 7 2.m4a
+Midton Rd 7 2.m4a
 ```
 
 becomes:
 
 ```text
-Middleton Rd 7 2.txt
+Midton Rd 7 2.txt
 ```
 
 You do not need to edit the filename in the code.
@@ -193,47 +193,7 @@ No local Python installation is necessary.
 
 ---
 
-## Repository Setup
 
-After uploading these project files to GitHub, edit the two Colab button links in this README.
-
-Replace:
-
-```text
-YOUR_GITHUB_USERNAME
-```
-
-with your GitHub username.
-
-Replace:
-
-```text
-YOUR_REPOSITORY_NAME
-```
-
-with your repository name.
-
-For example, if your GitHub username were:
-
-```text
-janedoe
-```
-
-and your repository were:
-
-```text
-whisper-audio-transcriber
-```
-
-the Colab URL would become:
-
-```text
-https://colab.research.google.com/github/janedoe/whisper-audio-transcriber/blob/main/Whisper_Audio_Transcriber.ipynb
-```
-
-After that change, the **Open in Colab** button will take users directly from your GitHub README into the working notebook.
-
----
 
 ## Project Files
 
